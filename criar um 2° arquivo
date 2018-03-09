@@ -1,6 +1,10 @@
-criar um 2° arquivo
-git add .
-git commint -m "criando segundo arquivo..."
-alterarr o 1° arquivo 
-git commit -m "alterando primeiro arquivo"
-git push
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+</head>
+<body>
+	<h1>Jackson29</h1>
+</body>
+</html>
